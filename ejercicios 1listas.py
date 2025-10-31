@@ -17,4 +17,4 @@ print(frutas)
 print("lista final:",frutas)
 
 # Haminson Bolivar
-# Crhistias Barros
+# Christian Barros
